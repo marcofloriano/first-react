@@ -19,8 +19,18 @@ ul li::marker {
     font-size: 30px;
 }
 
+header {
+    font-size: 25px;
+    color: #00d8ff;
+    height: 120px;
+    background-color: #21222A;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
 footer {
-    font-size: 13px;
+    /* font-size: 13px; */
     padding: 20px;
     text-align: center;
     background-color: #21222A;
